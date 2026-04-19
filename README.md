@@ -1,2 +1,2 @@
-# voice_chatbot
-AI-based Voice Enabled Career Guidance Chatbot using Flask and Machine Learning
+# voice-chatbot
+ Voice-enabled AI chatbot for student career guidance using ML and NLP
